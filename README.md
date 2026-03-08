@@ -1,30 +1,28 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/>
 
-<br>
-
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
+  <img src="https://i.pinimg.com/736x/c1/5a/c6/c15ac6e4567cb7bdf541025e7a3de744.jpg" width="50%" alt="Ghibli Banner" />
 </div>
 
 <div align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Lemon+Milk&pause=1000&color=7F9F7F&width=500&height=75&center=true&lines=Hi+there%2C+i+am+Mateo!;I'm+from+Brazil;I'm+Science+Computing+student;Be+Welcome!" alt="Typing SVG" />
+</a>
+</div>
+    
+  </div>
+</div>
+
+<br>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img src="https://i.pinimg.com/originals/8e/08/b9/8e08b9961b83aa4228c6ede7f4607287.gif" width="150" alt="Totoro andando" />  <br>
   
-  <b>``</b>
-  <samp>
-      <br>
-      Hi there! I'm <b>Mateo</b>
-  </samp>
-</div>
-
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
-</div>
-
-<br>
-      
-<br>
-<br>
-      
-<div align="center">
+  <img src="https://i.pinimg.com/originals/c2/39/78/c239781a884d363b6ee17280606b671f.gif" width="100" alt="Cenário Ghibli" />  <br>
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mffujimori&theme=ayu_mirage" width="69%" alt="GitHub Profile" />
   <br>
   <div style="display: flex; justify-content: space-between; gap: 200px; width: 100%;">
